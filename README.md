@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Bhattacharya</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-- 🌱 I’m currently learning **iOS, XCode,**
+- 🌱 I’m currently Working as **DevOps SRE**
 
 - 💬 Ask me about **Java, Android and iOS Application Development, Full Stack Web Development, DBMS, Version Control, CI/CD Pipeline, Kubernetes**
 
