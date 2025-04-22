@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **p.bhattacharya.2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1UXQf6FzdtUKhJKDVRTQ3pw0OpAL-HsZw/view?usp=sharing](https://drive.google.com/file/d/1UXQf6FzdtUKhJKDVRTQ3pw0OpAL-HsZw/view?usp=sharing)
+- 📄 Know about my experiences: https://www.icloud.com/iclouddrive/0a5Fe9Pops1FYhWlCcqFk5c2w#Priyanshu_Resume2_2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
