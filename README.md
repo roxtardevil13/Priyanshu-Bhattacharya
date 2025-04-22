@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently Working as **DevOps SRE**
 
-- 💬 Ask me about **Java, Android and iOS Application Development, Full Stack Web Development, DBMS, Version Control, CI/CD Pipeline, Kubernetes**
+- 💬 Ask me about **Java, Python, Swift, Android and iOS Application Development, Full Stack Web Development, DBMS, Version Control, CI/CD Pipeline, Kubernetes**
 
 - 📫 How to reach me **p.bhattacharya.2000@gmail.com**
 
