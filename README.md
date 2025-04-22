@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **iOS, XCode,**
 
-- 💬 Ask me about **Java, Full Stack Web Development, DBMS**
+- 💬 Ask me about **Java, Android and iOS Application Development, Full Stack Web Development, DBMS, Version Control, CI/CD Pipeline, Kubernetes**
 
 - 📫 How to reach me **p.bhattacharya.2000@gmail.com**
 
